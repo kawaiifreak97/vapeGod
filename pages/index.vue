@@ -38,7 +38,7 @@
   </v-layout>
 </template>
 <script>
-import Player from '~/components/player.vue'
+import Player from '~/components/Player.vue'
 
 export default {
   data(){
