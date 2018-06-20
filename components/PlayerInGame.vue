@@ -51,7 +51,6 @@
       :playerName="name">
       </Button>
     </v-flex>
-
     </v-layout>
   </v-container>
 </template>
